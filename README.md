@@ -18,7 +18,7 @@
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/online-quiz-app.git
+   git clone https://github.com/your-username/quiz-app.git
    cd online-quiz-app
 Install dependencies:
 
@@ -32,7 +32,7 @@ Create a .env file in the root directory of the project and add the following va
 plaintext
 Copy code
 JWT_SECRET=your_jwt_secret_key
-MONGODB_URI=mongodb://localhost:27017/your_database_name  # If using MongoDB
+MONGODB_URI=mongodb://localhost:27017/test  # If using MongoDB
 Run the application:
 
 bash
